@@ -38,4 +38,12 @@ form {
   input[type="submit"]:hover {
     background-color: #45a049;
   }
+
+  .login {
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 40px;
+    text-align: center;
+    width: 50%;
+  }
   
